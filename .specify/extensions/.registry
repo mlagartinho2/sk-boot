@@ -13,7 +13,7 @@
         "speckit-bug-fix",
         "speckit-bug-test"
       ],
-      "installed_at": "2026-11-06T21:45:09.581869+00:00"
+      "installed_at": "2026-11-20T15:30:26.228826+00:00"
     },
     "assess": {
       "version": "1.0.2",
@@ -29,7 +29,7 @@
         "speckit-assess-shape",
         "speckit-assess-decide"
       ],
-      "installed_at": "2026-11-06T21:45:16.180898+00:00"
+      "installed_at": "2026-11-20T15:30:42.547897+00:00"
     }
   }
 }
